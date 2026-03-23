@@ -1,4 +1,4 @@
-# PCS
+# PANACEA CLEANING SERVICE(PCS)
 
 ## Description
 PCS is a project aimed at [briefly describe the purpose of the project].
